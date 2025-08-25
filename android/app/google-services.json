@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "662059762100",
+    "project_id": "hangmenn-4d2b7",
+    "storage_bucket": "hangmenn-4d2b7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662059762100:android:41e67fb77ee1663948b2e1",
+        "android_client_info": {
+          "package_name": "com.example.prototypet1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJR641xPTfy4S-Q2wHhqtuB_0g7jwSoj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
